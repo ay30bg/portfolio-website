@@ -16,7 +16,7 @@ function ProfileSection() {
           <h1>Ayomide Yekeen</h1>
           <span className="tagline">A Technical Wizard</span>
           <p>
-           Ayomide is a skilled Fullstack Developer with a strong focus on backend development, dedicated to crafting robust, efficient, and scalable applications. With a deep passion for creating reliable systems, Ayomide excels in designing and implementing solutions that ensure seamless performance and adaptability to meet diverse project demands.
+           Ayomide is a skilled Full-stack Developer with a strong focus on backend development, dedicated to crafting robust, efficient, and scalable applications. With a deep passion for creating reliable systems, Ayomide excels in designing and implementing solutions that ensure seamless performance and adaptability to meet diverse project demands.
           </p>
           <div className="profile-buttons">
             <a
