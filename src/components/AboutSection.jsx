@@ -1,38 +1,3 @@
-// import React from 'react';
-
-// function AboutSection() {
-//   return (
-//     <section className="about-section">
-//       <h1>About Me</h1>
-//       <p>
-//         Welcome to my world of software engineering, where passion meets innovation! I thrive on
-//         creating solutions that solve real-world problems using modern technologies.
-//       </p>
-//       <p>
-//         With a strong background in [Your Degree] from [Your University], I specialize in backend
-//         development and enjoy exploring data structures and algorithms.
-//       </p>
-//       <p>
-//         Check out my{' '}
-//         <a href="https://medium.com/@your-profile" target="_blank" rel="noreferrer">
-//           Medium
-//         </a>{' '}
-//         for tech articles and connect with me on{' '}
-//         <a href="https://x.com/your-profile" target="_blank" rel="noreferrer">
-//           Twitter
-//         </a>{' '}
-//         or{' '}
-//         <a href="https://github.com/your-profile" target="_blank" rel="noreferrer">
-//           GitHub
-//         </a>
-//         .
-//       </p>
-//     </section>
-//   );
-// }
-
-// export default AboutSection;
-
 import React from 'react';
 
 function AboutSection() {
@@ -40,7 +5,7 @@ function AboutSection() {
     <section className="about-section">
       <h1>About Me</h1>
       <p>
-        I am a creative and detail-oriented full-stack developer with a strong passion for crafting
+        I am a creative and detail-oriented Full-stack Developer with a strong passion for crafting
         seamless user interfaces and robust, scalable backend systems. My expertise lies in modern
         web development technologies, with a specialization in React, Node.js, and UI/UX design. I
         have a proven track record of delivering production-ready applications, including
