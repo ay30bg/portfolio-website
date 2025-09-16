@@ -30,6 +30,11 @@ function ProjectsPage() {
       description: 'A Retro Portfolio Page styled like a CMD terminal is a web-based portfolio designed to mimic the look and feel of a classic command-line interface (CLI) from the 80s or 90s, such as MS-DOS or early Unix terminals. It uses a text-based, monochromatic aesthetic (often green or white text on a black background) with a typewriter-like font to evoke nostalgia. Navigation is driven by typing commands, making it interactive and engaging.',
       liveLink: 'https://retro-dev.vercel.app/',
     },
+    {
+      title: 'SNT FRNCS WORLDWIDE',
+      description: 'SNT FRNCS is a modern e-commerce platform for an urban streetwear brand. The site delivers a sleek shopping experience with a bold design that reflects street culture—featuring dynamic product displays, smooth navigation, and a mobile-first interface. Built with React on the frontend and Node.js on the backend, the platform integrates Paystack as a secure payment gateway, ensuring seamless checkout. With scalable architecture and clean UI, SNT FRNCS highlights both robust functionality and strong brand identity.',
+      liveLink: 'https://www.sntfrncs.store',
+    },
   ];
 
   return (
@@ -70,5 +75,6 @@ function ProjectsPage() {
     </div>
   );
 }
+
 
 export default ProjectsPage;
