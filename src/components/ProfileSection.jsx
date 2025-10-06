@@ -20,7 +20,7 @@ function ProfileSection() {
           </p>
           <div className="profile-buttons">
             <a
-              href="https://drive.google.com/your-resume-link"
+              href="https://drive.google.com/file/d/1dyDZJS7ZOlXBMPtexiZH5ogEWflrtCIf/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-resume"
@@ -38,5 +38,6 @@ function ProfileSection() {
 }
 
 export default ProfileSection;
+
 
 
