@@ -39,12 +39,18 @@ function ProjectsPage() {
         "SNT FRNCS is a modern e-commerce platform for an urban streetwear brand. The site delivers a sleek shopping experience with a bold design that reflects street culture—featuring dynamic product displays, smooth navigation, and a mobile-first interface. Built with React and Node.js, the platform integrates Paystack as a secure payment gateway, ensuring seamless checkout.",
       liveLink: "https://www.sntfrncs.store",
     },
-    
     {
       title: "REALSMS",
       description:
         "RealSMS is a platform for buying, selling, and managing virtual numbers, enabling instant SMS verification, secure payments, and seamless communication globally.",
       liveLink: "https://www.realsms.store",
+    },
+   {
+      title: "SBJ CLOTHINGS",
+      description:
+        "Premium fashion & accessories for modern style.
+            Discover elegance, comfort, and confidence.",
+      liveLink: "http://sbjclothings.shop",
     },
   ];
 
