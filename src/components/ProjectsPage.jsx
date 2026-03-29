@@ -48,8 +48,7 @@ function ProjectsPage() {
    {
       title: "SBJ CLOTHINGS",
       description:
-        "Premium fashion & accessories for modern style.
-            Discover elegance, comfort, and confidence.",
+        "Premium fashion & accessories for modern style. Discover elegance, comfort, and confidence.",
       liveLink: "http://sbjclothings.shop",
     },
   ];
