@@ -5,6 +5,7 @@ function SkillsSection() {
     'JavaScript',
     'TypeScript',
     'NodeJs',
+    'React-Native',
     'React',
     'HTML5',
     'CSS3',
