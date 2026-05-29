@@ -1,5 +1,5 @@
 import React from 'react';
-import profileImage from '../assets/profile_image.jpg'
+import profileImage from '../assets/black-hat.jpg'
 
 function ProfileSection() {
   return (
